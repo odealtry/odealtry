@@ -2,15 +2,11 @@
 
 <h3 align="center">A junior developer with a voracious appetite for new skills 👨‍💻</h3>
 
-- 👨‍🎓 I graduated from the fullstack web dev bootcamp at **Le Wagon** in December
+- 👨‍🎓 I graduated from the fullstack web dev bootcamp at **Le Wagon** in December 2020
 
-- 🔭 I’m currently working as **a Teaching Assistant at Le Wagon**
-
-- 🌱 I’m currently learning **Python for Data Analysis**
+- 🔭 I’m currently working on **an automatic trading bot in Python**
 
 - 👯 I’m looking to collaborate on **Data analysis projects**
-
-- 🤝 I’m looking for help with **large-scale data processing project ideas**
 
 - 📫 How to reach me **odealtry@gmail.com**
 
