@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oscar Dealtry</h1>
+<h1 align="center">Oscar Dealtry</h1>
 
 <h3 align="center">A junior developer with a voracious appetite for new skills 👨‍💻</h3>
 
