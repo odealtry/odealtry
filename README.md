@@ -4,11 +4,11 @@
 
 - 👨‍🎓 I graduated from the fullstack web dev bootcamp at **Le Wagon** in December 2020
 
-- 🔭 I’m currently working on **an automatic trading bot in Python**
+- 💼 I'm training to become a backend developer at **Wombat Invest**
 
-- 👯 I’m looking to collaborate on **Data analysis projects**
+- 🔭 I’m currently developing a **sentiment analysis toolkit for app reviews**
 
-- 📫 How to reach me **odealtry@gmail.com**
+- 📫 How to reach me: **odealtry@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
