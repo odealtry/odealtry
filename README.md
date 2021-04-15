@@ -2,11 +2,11 @@
 
 - 👨‍🎓 In December 2020 I graduated from the fullstack web dev bootcamp at **Le Wagon**
 
-- 📫 How to reach me **odealtry@gmail.com**
-
 - 💼 I'm training to become a backend developer at **Wombat Invest**
 
 - 🔭 I’m currently working on a **sentiment analysis toolkit for app reviews using VADER**
+
+- 📫 How to reach me **odealtry@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
