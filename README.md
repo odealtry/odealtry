@@ -2,9 +2,9 @@
 
 - 👨‍🎓 In December 2020 I graduated from the fullstack web dev bootcamp at **Le Wagon**
 
-- 💼 I'm training to become a backend developer at **Wombat Invest**
+- 💼 I work in BizOps at **Wombat Invest**
 
-- 🔭 I’m currently working on a **sentiment analysis toolkit for app reviews using VADER**
+- 🔭 I’m currently working on a **crpyto trading bot leveraging the Binance API**
 
 - 📫 How to reach me **odealtry@gmail.com**
 
