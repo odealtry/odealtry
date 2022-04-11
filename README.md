@@ -2,7 +2,7 @@
 
 - 👨‍🎓 In December 2020 I graduated from the fullstack web dev bootcamp at **Le Wagon**
 
-- 💼 I work in BizOps at **Wombat Invest**
+- 💼 I work in Product at **Wombat Invest**
 
 - 🔭 I’m currently working on a **crpyto trading bot leveraging the Binance API**
 
