@@ -1,12 +1,12 @@
 <h1 align="center">Oscar Dealtry</h1>
 
+- 💼 Senior Product Manager at **nCino**
+
 - 👨‍🎓 In December 2020 I graduated from the fullstack web dev bootcamp at **Le Wagon**
 
-- 💼 I work in Product at **SparkChange**
+- 📚 My repos demonstrate my self-led learning in Software Engineering and Data Analytics
 
-- 🔭 I’m currently working on a **crpyto trading bot leveraging the Binance API**
-
-- 📫 How to reach me **odealtry@gmail.com**
+- 📫 How to reach me: **odealtry@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
