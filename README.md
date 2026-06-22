@@ -1,6 +1,6 @@
 <h1 align="center">Oscar Dealtry</h1>
 
-- 💼 Senior Product Manager at **nCino**
+- 💼 Fractional CPO at **candidat.ai**
 
 - 👨‍🎓 In December 2020 I graduated from the fullstack web dev bootcamp at **Le Wagon**
 
