@@ -4,7 +4,7 @@
 
 - 👨‍🎓 In December 2020 I graduated from the fullstack web dev bootcamp at **Le Wagon**
 
-- 📚 My repos demonstrate my self-led learning in Software Engineering and Data Analytics
+- 📚 My repos demonstrate my self-led learning in Software Engineering, Data Analytics, Agentic Development, and AI Functionality
 
 - 📫 How to reach me: **odealtry@gmail.com**
 
